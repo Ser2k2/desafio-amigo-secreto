@@ -30,8 +30,7 @@ function agregarAmigo() {
 
 function sortearAmigo() {
 
-    let vacio = [];
-
+    
     if (amigos.length === 0) {
 
         alert('Por favor, inserte un nombre!')
